@@ -1,0 +1,1 @@
+Headers in your Microsoft Word document lets you add text to the top of each page of a business document. Although this text appears on each page, you have to enter it only once; the edits are propagated to all pages. This header is separated by a space, but for a more obvious segregation or to spice up the header a little,you can add a graphical line.
